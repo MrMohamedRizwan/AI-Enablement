@@ -1,0 +1,234 @@
+Payroll Schedule and Information - Employee Guide
+
+OVERVIEW
+========
+This document provides information about payroll processing, schedules, and related procedures.
+
+PAYROLL SCHEDULE
+================
+
+Pay Frequency: Bi-weekly (every two weeks)
+Pay Periods: 26 pay periods per year
+Payday: Every other Friday
+
+2026 Payroll Calendar:
+- Pay Period 1: Jan 1-14, Payday: Jan 17
+- Pay Period 2: Jan 15-28, Payday: Jan 31
+- Pay Period 3: Jan 29-Feb 11, Payday: Feb 14
+- Pay Period 4: Feb 12-25, Payday: Feb 28
+- [Full calendar available on HR portal]
+
+Holiday Pay Schedule:
+- If payday falls on a holiday, pay is processed the business day before
+- Holiday pay included in regular payroll
+- Vacation and sick time processed with regular pay
+
+PAYROLL PROCESSING TIMELINE
+============================
+
+Pay Period End (Sunday):
+- Time sheets due by 11:59 PM
+- Expense reports must be submitted
+- Any payroll changes finalized
+
+Monday-Tuesday:
+- Payroll team processes timesheets
+- Managers approve overtime and adjustments
+- Benefits and deductions calculated
+
+Wednesday:
+- Final payroll calculations completed
+- Direct deposit files sent to bank
+- Pay stubs generated and distributed
+
+Thursday:
+- Payroll verification and quality checks
+- Exception reports reviewed
+- Last-minute corrections processed
+
+Friday (Payday):
+- Direct deposits available by 9 AM
+- Pay stubs accessible online
+- Payroll support available for questions
+
+DIRECT DEPOSIT
+===============
+
+Setup Requirements:
+- Bank account information (routing and account numbers)
+- Voided check or bank letter
+- Direct deposit authorization form
+- Processing time: 1-2 pay periods for new setups
+
+Multiple Accounts:
+- Split deposits between up to 3 accounts
+- Specify dollar amounts or percentages
+- Savings and checking accounts supported
+- Changes take effect next pay period
+
+Backup Payment:
+- Paper checks available if direct deposit fails
+- Pickup required from HR office
+- Reissue fee may apply for lost checks
+
+PAY STUB INFORMATION
+====================
+
+Access Pay Stubs:
+- Online portal: https://payroll.company.com
+- Mobile app: Company Payroll
+- Email notifications when available
+- Historical stubs available for 7 years
+
+Pay Stub Sections:
+1. Employee Information
+2. Pay Period Dates
+3. Earnings (regular, overtime, bonuses)
+4. Deductions (taxes, benefits, voluntary)
+5. Net Pay Amount
+6. Year-to-Date Totals
+
+Common Deductions:
+- Federal income tax
+- State income tax (if applicable)
+- Social Security (6.2%)
+- Medicare (1.45%)
+- Health insurance premiums
+- Retirement plan contributions
+- Life insurance premiums
+
+OVERTIME POLICY
+===============
+
+Overtime Eligibility:
+- Non-exempt employees only
+- Hours worked over 40 in a work week
+- Time-and-a-half rate (1.5x regular hourly rate)
+- Manager pre-approval required
+
+Overtime Calculation:
+- Based on actual hours worked
+- Vacation and sick time don't count toward overtime
+- Holiday pay doesn't count toward overtime
+- Calculated weekly, not daily
+
+Double Time:
+- Hours worked over 12 in a single day (where applicable)
+- Holiday work (certain holidays only)
+- Seventh consecutive day worked
+
+TIME TRACKING
+=============
+
+Hourly Employees:
+- Must clock in/out using time tracking system
+- Lunch breaks: 30 minutes minimum (unpaid)
+- Break times: 15 minutes (paid)
+- Missed punches require manager approval
+
+Salaried Employees:
+- Expected to work standard business hours
+- Flexible schedule with manager approval
+- Overtime not typically paid
+- Time off tracked for PTO purposes
+
+Time Tracking System:
+- Online portal: https://time.company.com
+- Mobile app available
+- Biometric or badge scanning
+- Manager approval for corrections
+
+PAYROLL CHANGES
+================
+
+Salary/Wage Changes:
+- Effective date specified by HR
+- Prorated for partial pay periods
+- Retroactive adjustments processed next payroll
+- Written notification provided
+
+Tax Withholding Changes:
+- Submit new W-4 form to HR
+- Changes effective next pay period
+- Online form submission available
+- Annual review recommended
+
+Direct Deposit Changes:
+- Submit new authorization form
+- Allow 1-2 pay periods for processing
+- Verify account information carefully
+- Old account information kept on file
+
+YEAR-END PROCESSING
+===================
+
+W-2 Forms:
+- Available by January 31st
+- Electronic delivery preferred
+- Paper copies available upon request
+- Corrections processed as needed
+
+Tax Documents:
+- W-2: Wage and tax statement
+- 1095-C: Health insurance coverage (if applicable)
+- 1099: Contract payments (if applicable)
+- State tax documents as required
+
+Final Paychecks:
+- Processed on regular payroll schedule
+- Unused PTO paid out (per policy)
+- Final expense reimbursements included
+- COBRA information provided
+
+PAYROLL SUPPORT
+================
+
+Common Issues:
+- Missing or incorrect pay
+- Direct deposit problems
+- Tax withholding questions
+- Time tracking errors
+- Deduction discrepancies
+
+Contact Information:
+- Payroll team: payroll@company.com
+- Phone: ext. 7890
+- HR support: hr@company.com
+- Online help: https://help.company.com/payroll
+
+Support Hours:
+- Monday-Friday: 8 AM - 5 PM
+- Payday extended hours: 7 AM - 7 PM
+- Emergency contact available for urgent issues
+
+FREQUENTLY ASKED QUESTIONS
+==========================
+
+Q: When will I receive my first paycheck?
+A: Typically 2-3 weeks after start date, depending on pay period
+
+Q: Can I change my direct deposit information?
+A: Yes, submit form to HR with 1-2 pay periods processing time
+
+Q: What if my paycheck is wrong?
+A: Contact payroll immediately; corrections made next pay period
+
+Q: How do I access old pay stubs?
+A: Log into payroll portal; 7 years of history available
+
+Q: When are W-2s available?
+A: By January 31st each year, electronically and by mail
+
+Q: Can I get an advance on my paycheck?
+A: Generally not available; speak with HR about hardship options
+
+IMPORTANT REMINDERS
+===================
+- Submit timesheets by pay period end
+- Keep direct deposit information current
+- Review pay stubs for accuracy
+- Update tax withholdings annually
+- Report payroll errors immediately
+- Maintain confidentiality of pay information
+
+Last updated: January 2026

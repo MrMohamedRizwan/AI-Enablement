@@ -1,0 +1,127 @@
+Laptop Request Process - Hardware Procurement
+
+OVERVIEW
+========
+This guide explains how to request a new laptop or upgrade your existing hardware.
+
+ELIGIBILITY
+===========
+- New employees (automatic provision)
+- Existing employees with hardware older than 4 years
+- Employees with damaged/malfunctioning equipment
+- Role changes requiring different specifications
+- Performance issues with current hardware
+
+STANDARD LAPTOP CONFIGURATIONS
+===============================
+
+Basic Configuration (Office Work):
+- Processor: Intel i5 or AMD Ryzen 5
+- RAM: 8GB
+- Storage: 256GB SSD
+- Display: 14" Full HD
+- OS: Windows 11 Pro or macOS
+- Estimated cost: $800-1200
+
+Performance Configuration (Development/Design):
+- Processor: Intel i7 or AMD Ryzen 7
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 15" Full HD or 4K
+- Graphics: Dedicated GPU (if needed)
+- OS: Windows 11 Pro or macOS
+- Estimated cost: $1500-2500
+
+Premium Configuration (Specialized Work):
+- Processor: Intel i9 or AMD Ryzen 9
+- RAM: 32GB
+- Storage: 1TB SSD
+- Display: 16" 4K or multiple monitor support
+- Graphics: High-end dedicated GPU
+- OS: Windows 11 Pro or macOS
+- Estimated cost: $2500-4000
+
+REQUEST PROCESS
+===============
+
+Step 1: Submit Request
+- Go to https://helpdesk.company.com
+- Select "Hardware Request" category
+- Fill out the laptop request form
+- Include business justification
+
+Step 2: Manager Approval
+- Your direct manager must approve the request
+- Approval required for all configurations
+- Budget considerations will be reviewed
+
+Step 3: IT Review
+- IT will assess technical requirements
+- Compatibility with company systems
+- Security and compliance review
+- Alternative recommendations if needed
+
+Step 4: Procurement
+- Approved requests sent to procurement
+- Standard delivery time: 2-3 weeks
+- Rush orders available for critical needs
+- Tracking information provided
+
+Step 5: Setup and Deployment
+- IT will configure the laptop
+- Install required software and security tools
+- Schedule delivery or pickup
+- Provide setup instructions
+
+REQUIRED INFORMATION
+====================
+When submitting your request, include:
+- Current laptop model and age
+- Specific software requirements
+- Performance issues with current hardware
+- Business justification
+- Preferred configuration
+- Urgency level
+- Budget approval (if over $2000)
+
+LAPTOP LIFECYCLE
+=================
+- Standard replacement cycle: 4 years
+- Extended warranty: 3 years
+- Regular maintenance and updates required
+- Return old equipment to IT for disposal
+- Data migration assistance available
+
+ACCESSORIES
+===========
+Available accessories (separate request):
+- External monitors (up to 2 per employee)
+- Wireless mouse and keyboard
+- Laptop stand or docking station
+- Carrying case or laptop bag
+- USB-C adapters and dongles
+
+EMERGENCY REPLACEMENTS
+======================
+For urgent replacements (theft, damage, critical failure):
+- Contact IT immediately: it-emergency@company.com
+- Temporary loaner available within 24 hours
+- Expedited procurement for permanent replacement
+- Insurance claims handled by IT
+
+SUPPORT AND WARRANTY
+====================
+- Hardware warranty: 3 years
+- Software support: Ongoing
+- Repair services: On-site or depot
+- Replacement parts: Available through IT
+- Upgrade consultations: Available upon request
+
+CONTACT INFORMATION
+===================
+Hardware requests: hardware@company.com
+IT Support: it-support@company.com
+Emergency IT: it-emergency@company.com
+Phone: ext. 1234
+
+Last updated: January 2026

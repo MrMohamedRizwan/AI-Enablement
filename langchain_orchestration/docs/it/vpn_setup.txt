@@ -1,0 +1,49 @@
+VPN Setup Guide - Company Network Access
+
+OVERVIEW
+========
+This guide will help you set up VPN access to connect to the company network securely from remote locations.
+
+REQUIREMENTS
+============
+- Company-issued laptop or approved personal device
+- Active employee account
+- VPN client software (provided by IT)
+
+SETUP INSTRUCTIONS
+==================
+
+Windows Setup:
+1. Download the VPN client from the IT portal: https://it.company.com/vpn
+2. Install the client with administrator privileges
+3. Launch the VPN client
+4. Enter server address: vpn.company.com
+5. Use your company username and password
+6. Click "Connect"
+
+Mac Setup:
+1. Download the VPN client for Mac from the IT portal
+2. Install the .dmg file
+3. Open System Preferences > Network
+4. Click "+" to add a new connection
+5. Select VPN > Cisco IPSec
+6. Server Address: vpn.company.com
+7. Account Name: Your company username
+8. Password: Your company password
+9. Click "Connect"
+
+TROUBLESHOOTING
+===============
+- Connection fails: Check your internet connection first
+- Authentication error: Verify username/password with IT
+- Slow connection: Try different server locations
+- Can't access company resources: Contact IT support
+
+SUPPORT
+=======
+For VPN issues, contact IT Support:
+- Email: it-support@company.com
+- Phone: ext. 1234
+- Ticket system: https://helpdesk.company.com
+
+Last updated: January 2026

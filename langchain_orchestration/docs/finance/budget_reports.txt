@@ -1,0 +1,228 @@
+Budget Reports and Financial Statements - Access Guide
+
+OVERVIEW
+========
+This guide explains how to access and understand company budget reports and financial statements.
+
+AVAILABLE REPORTS
+=================
+
+Monthly Budget Reports:
+- Department budget vs. actual spending
+- Variance analysis and explanations
+- Forecast updates and projections
+- Key performance indicators (KPIs)
+
+Quarterly Financial Statements:
+- Income statement (P&L)
+- Balance sheet
+- Cash flow statement
+- Executive summary and highlights
+
+Annual Reports:
+- Comprehensive financial review
+- Audit results and findings
+- Strategic initiatives and investments
+- Regulatory compliance reports
+
+Department-Specific Reports:
+- Individual department budgets
+- Project-based financial tracking
+- Cost center analysis
+- Resource allocation reports
+
+ACCESSING REPORTS
+==================
+
+Finance Portal:
+- URL: https://finance.company.com
+- Login with company credentials
+- Navigate to "Reports" section
+- Select desired report type and period
+
+Report Categories:
+- Executive Dashboard (C-level access)
+- Department Reports (manager access)
+- Project Reports (project manager access)
+- Employee Reports (limited access)
+
+Monthly Report Schedule:
+- Reports available by 10th of following month
+- Department summaries by 5th of month
+- Executive dashboard updated weekly
+- Real-time spending data available 24/7
+
+UNDERSTANDING BUDGET REPORTS
+============================
+
+Key Metrics:
+- Budget: Original allocated amount
+- Actual: Money spent to date
+- Variance: Difference between budget and actual
+- Forecast: Projected spending for full period
+- Remaining: Budget left to spend
+
+Color Coding:
+- Green: Under budget (favorable variance)
+- Yellow: Within 5% of budget (caution)
+- Red: Over budget (unfavorable variance)
+- Blue: Information only (no variance threshold)
+
+Common Report Sections:
+1. Executive Summary
+2. Revenue Analysis
+3. Expense Breakdown
+4. Variance Explanations
+5. Forecast Updates
+6. Action Items
+
+BUDGET VARIANCE ANALYSIS
+========================
+
+Favorable Variances (Under Budget):
+- Lower than expected costs
+- Delayed project spending
+- Efficiency improvements
+- Market conditions
+
+Unfavorable Variances (Over Budget):
+- Unexpected expenses
+- Scope changes
+- Market price increases
+- Emergency purchases
+
+Required Actions:
+- Variances >10% require explanation
+- Variances >20% require corrective action plan
+- Monthly variance reports due by 15th
+- Budget revisions require approval
+
+DEPARTMENT BUDGET ACCESS
+========================
+
+Department Managers Can View:
+- Their department's budget and actuals
+- Sub-department breakdowns
+- Project-level spending
+- Historical comparisons
+- Forecast scenarios
+
+Employees Can View:
+- Their cost center budget summary
+- Project budgets they're assigned to
+- General company financial health metrics
+- Public financial information
+
+Restricted Information:
+- Other department budgets
+- Salary and compensation data
+- Confidential projects
+- Merger and acquisition details
+
+MONTHLY BUDGET PROCESS
+======================
+
+Week 1 (Month End):
+- Departments close monthly books
+- Expense reports finalized
+- Accruals and adjustments made
+- Preliminary numbers available
+
+Week 2:
+- Finance team reviews and validates data
+- Variance analysis completed
+- Department consultations held
+- Draft reports prepared
+
+Week 3:
+- Final reports published
+- Department briefings scheduled
+- Executive presentations prepared
+- Action plans developed
+
+Week 4:
+- Budget revisions processed
+- Next month planning begins
+- Quarterly projections updated
+- Annual budget adjustments
+
+BUDGET PLANNING CALENDAR
+=========================
+
+Annual Budget Cycle:
+- September: Budget planning begins
+- October: Department submissions due
+- November: Executive review and approval
+- December: Final budget approval
+- January: New budget year begins
+
+Quarterly Reviews:
+- Q1 Review: April
+- Q2 Review: July
+- Q3 Review: October
+- Q4 Review: January (following year)
+
+Monthly Deadlines:
+- Expense reports: 5th of month
+- Department reports: 10th of month
+- Variance explanations: 15th of month
+- Budget revisions: 20th of month
+
+FINANCIAL STATEMENT LOCATIONS
+=============================
+
+Last Month's Budget Report:
+- Finance portal > Monthly Reports > [Previous Month]
+- Shared drive: \\finance\reports\monthly\
+- Email distribution list (managers only)
+
+Quarterly Statements:
+- Finance portal > Quarterly Reports
+- Company intranet > Financial Information
+- Investor relations website (public companies)
+
+Annual Reports:
+- Company website > Investor Relations
+- SEC filings (public companies)
+- Finance portal > Annual Reports
+
+SUPPORT AND TRAINING
+====================
+
+Budget Training Sessions:
+- Monthly "Budget Basics" workshops
+- Quarterly manager training
+- Annual budget planning sessions
+- One-on-one consultations available
+
+Finance Business Partners:
+- Each department has assigned finance partner
+- Monthly budget review meetings
+- Ad-hoc analysis and support
+- Budget planning assistance
+
+Contact Information:
+- Budget questions: budget@company.com
+- Report access issues: finance-it@company.com
+- Training requests: finance-training@company.com
+- General finance: finance@company.com
+
+FREQUENTLY ASKED QUESTIONS
+==========================
+
+Q: When are monthly reports available?
+A: By the 10th of the following month
+
+Q: How do I request budget revisions?
+A: Submit request through finance portal with justification
+
+Q: Can I see other department budgets?
+A: Only with proper authorization and business need
+
+Q: What if I can't access a report?
+A: Contact finance-it@company.com for access issues
+
+Q: How often are budgets updated?
+A: Monthly actuals, quarterly forecasts, annual planning
+
+Last updated: January 2026

@@ -1,0 +1,82 @@
+Software Approval Policy - Approved Applications
+
+OVERVIEW
+========
+This document lists approved software applications for company use and the process for requesting new software.
+
+APPROVED SOFTWARE LIST
+======================
+
+Productivity Software:
+- Microsoft Office 365 (Word, Excel, PowerPoint, Outlook)
+- Google Workspace (Docs, Sheets, Slides, Gmail)
+- Adobe Acrobat Reader
+- Zoom (for video conferencing)
+- Slack (for team communication)
+- Notion (for documentation)
+
+Development Tools:
+- Visual Studio Code
+- Git and GitHub Desktop
+- Docker Desktop
+- Postman (API testing)
+- Chrome DevTools
+- Node.js and npm
+
+Security Software:
+- Company VPN client
+- LastPass (password manager)
+- Windows Defender / macOS built-in security
+- Malwarebytes (anti-malware)
+
+REQUESTING NEW SOFTWARE
+=======================
+
+Process:
+1. Submit a software request ticket at https://helpdesk.company.com
+2. Include the following information:
+   - Software name and version
+   - Business justification
+   - Number of licenses needed
+   - Cost information (if known)
+   - Alternative solutions considered
+
+3. IT Security will review for:
+   - Security vulnerabilities
+   - Data privacy compliance
+   - License compatibility
+   - Integration with existing systems
+
+4. Approval timeline: 5-10 business days
+5. Installation will be scheduled after approval
+
+PROHIBITED SOFTWARE
+===================
+- Peer-to-peer file sharing applications
+- Cryptocurrency mining software
+- Unlicensed or pirated software
+- Software from untrusted sources
+- Applications that bypass security controls
+
+INSTALLATION GUIDELINES
+=======================
+- Only IT-approved software may be installed
+- Users cannot install software requiring admin privileges
+- All software must be installed through IT or approved app stores
+- Regular security updates are mandatory
+
+VIOLATIONS
+==========
+Installing unauthorized software may result in:
+- Immediate removal of software
+- Security incident investigation
+- Disciplinary action
+- Potential termination
+
+CONTACT INFORMATION
+===================
+Software requests: software-requests@company.com
+IT Support: it-support@company.com
+Security concerns: security@company.com
+
+Last updated: January 2026

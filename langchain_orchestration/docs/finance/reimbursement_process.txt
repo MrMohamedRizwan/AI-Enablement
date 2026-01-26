@@ -1,0 +1,157 @@
+Expense Reimbursement Process - Employee Guide
+
+OVERVIEW
+========
+This guide explains how to submit and track expense reimbursements for business-related expenses.
+
+ELIGIBLE EXPENSES
+=================
+
+Travel Expenses:
+- Airfare, train, bus tickets
+- Hotel accommodations
+- Rental cars and gas
+- Taxi, rideshare, public transportation
+- Parking fees and tolls
+
+Meals and Entertainment:
+- Business meals with clients/colleagues
+- Conference and training meals
+- Team building events
+- Client entertainment (with approval)
+
+Office and Supplies:
+- Office supplies and equipment
+- Software licenses and subscriptions
+- Books and training materials
+- Conference and seminar fees
+
+Other Business Expenses:
+- Phone and internet (if required for work)
+- Professional memberships
+- Certification and licensing fees
+- Business insurance
+
+EXPENSE LIMITS
+==============
+- Meals: $75 per day domestic, $100 per day international
+- Hotel: Reasonable business rate (mid-tier hotels)
+- Airfare: Economy class (business class requires pre-approval)
+- Ground transportation: Most economical option
+- Entertainment: $200 per event (requires manager approval)
+
+SUBMISSION PROCESS
+==================
+
+Step 1: Gather Documentation
+- Original receipts (digital photos acceptable)
+- Credit card statements
+- Invoices and proof of payment
+- Business purpose explanation
+- Attendee information (for meals/entertainment)
+
+Step 2: Submit Through Expense System
+- Log into expense portal: https://expenses.company.com
+- Create new expense report
+- Upload receipt images
+- Enter expense details and business purpose
+- Categorize expenses correctly
+- Submit for approval
+
+Step 3: Manager Approval
+- Direct manager reviews and approves
+- Finance reviews for policy compliance
+- Additional documentation may be requested
+- Approval notifications sent via email
+
+Step 4: Reimbursement Processing
+- Approved expenses processed bi-weekly
+- Direct deposit to employee bank account
+- Reimbursement typically within 5-7 business days
+- Email confirmation when payment is issued
+
+REQUIRED DOCUMENTATION
+======================
+
+For All Expenses:
+- Original receipt or invoice
+- Date and amount of expense
+- Business purpose description
+- Vendor/merchant information
+
+For Meals:
+- Itemized receipt (not just credit card slip)
+- Names of attendees
+- Business relationship of attendees
+- Business purpose of meal
+
+For Travel:
+- Itinerary or booking confirmation
+- Boarding passes (for flights)
+- Hotel folio showing zero balance
+- Mileage log (for personal vehicle use)
+
+SUBMISSION DEADLINES
+====================
+- Submit expenses within 60 days of incurrence
+- Monthly expense reports due by 5th of following month
+- Year-end expenses must be submitted by January 15th
+- Late submissions require manager approval
+
+MILEAGE REIMBURSEMENT
+=====================
+- Current rate: $0.65 per mile (updated annually)
+- Use company mileage tracker app
+- Record start/end locations and odometer readings
+- Business purpose required for each trip
+- Personal commuting miles not reimbursable
+
+CORPORATE CREDIT CARD
+=====================
+If you have a company credit card:
+- Use for all business expenses when possible
+- Submit expense reports even for corporate card charges
+- Reconcile monthly statements
+- Report lost/stolen cards immediately
+- Personal use strictly prohibited
+
+NON-REIMBURSABLE EXPENSES
+=========================
+- Personal meals and entertainment
+- Alcoholic beverages (unless client entertainment)
+- Traffic violations and parking tickets
+- Personal travel insurance
+- Spouse/family travel expenses
+- First-class or business-class upgrades (without approval)
+- Excessive or luxury accommodations
+
+EXPENSE REPORT STATUS
+=====================
+Check status at: https://expenses.company.com
+- Submitted: Awaiting manager approval
+- Approved: Awaiting finance processing
+- Processing: Payment being prepared
+- Paid: Reimbursement completed
+- Rejected: Requires correction and resubmission
+
+SUPPORT AND QUESTIONS
+=====================
+Expense System Support:
+- Email: expenses@company.com
+- Phone: ext. 5678
+- Help desk: https://help.company.com/expenses
+
+Finance Team:
+- Email: finance@company.com
+- Phone: ext. 9012
+- Office hours: Monday-Friday, 9 AM - 5 PM
+
+POLICY VIOLATIONS
+=================
+Violations may result in:
+- Expense rejection
+- Requirement for manager pre-approval
+- Disciplinary action
+- Removal of expense privileges
+
+Last updated: January 2026
