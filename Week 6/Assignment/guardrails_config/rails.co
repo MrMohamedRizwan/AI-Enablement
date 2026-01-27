@@ -1,0 +1,92 @@
+# =========================
+# Input Guardrails
+# =========================
+
+# Check for sensitive information requests
+define flow check_sensitive_information
+  if "salary" in $user_message
+    bot refuse_confidential_information_request
+    stop
+  if "personal information" in $user_message
+    bot refuse_confidential_information_request
+    stop
+  if "confidential" in $user_message
+    bot refuse_confidential_information_request
+    stop
+
+define flow check_inappropriate_requests
+  if "hack" in $user_message
+    bot "I cannot assist with inappropriate requests. Please contact HR for proper guidance."
+    stop
+  if "bypass" in $user_message
+    bot "I cannot assist with inappropriate requests. Please contact HR for proper guidance."
+    stop
+  if "illegal" in $user_message
+    bot "I cannot assist with inappropriate requests. Please contact HR for proper guidance."
+    stop
+
+define flow validate_query_scope
+  if "hr policy" in $user_message
+    return
+  if "insurance" in $user_message
+    return
+  if "benefits" in $user_message
+    return
+  if "hiring" in $user_message
+    return
+  if "trend" in $user_message
+    return
+  if "benchmark" in $user_message
+    return
+  bot "I can help with HR policies, insurance, benefits, and hiring-related questions."
+
+# =========================
+# Output Guardrails
+# =========================
+
+# Check compliance
+define flow check_compliance
+  if "medical advice" in $bot_message
+    bot "I cannot provide medical or legal advice. Please consult with appropriate professionals."
+    stop
+  if "legal advice" in $bot_message
+    bot "I cannot provide medical or legal advice. Please consult with appropriate professionals."
+    stop
+
+# Validate information accuracy
+define flow validate_information_accuracy
+  if "insurance" in $bot_message
+    if not ("please verify" in $bot_message)
+      bot $bot_message + " Please verify this information with the latest policy documents."
+      stop
+
+# Ensure professional tone
+define flow ensure_professional_tone
+  if "damn" in $bot_message
+    bot "I apologize, but I must maintain a professional tone. Let me rephrase that appropriately."
+    stop
+  if "shit" in $bot_message
+    bot "I apologize, but I must maintain a professional tone. Let me rephrase that appropriately."
+    stop
+  if "crap" in $bot_message
+    bot "I apologize, but I must maintain a professional tone. Let me rephrase that appropriately."
+    stop
+
+# =========================
+# Bot Actions
+# =========================
+
+define bot provide_health_insurance_information
+  "Based on our current health insurance policies, here are the available options. Please note that specific coverage details may vary, and you should verify with the latest policy documents or contact HR for personalized information."
+
+define bot refuse_confidential_information_request
+  "I cannot provide confidential employee information. For such requests, please contact HR directly or follow the proper channels outlined in our employee handbook."
+
+define bot redirect_to_hr_department
+  "This matter requires direct attention from our HR department. Please contact HR at [HR contact information] or submit a formal request through the employee portal."
+
+define bot provide_hr_policy_info
+  "I can help you with HR policy information. Please note that policies may be updated periodically, so always refer to the latest version in the employee handbook."
+
+define bot provide_insurance_info
+  "I can provide general information about our insurance benefits. For specific coverage details or claims, please contact our benefits administrator or review your personalized benefits summary."

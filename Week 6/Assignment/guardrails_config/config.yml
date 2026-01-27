@@ -1,0 +1,51 @@
+models:
+  - type: main
+    engine: azure_openai
+    model: gpt-4.1
+    parameters:
+      azure_endpoint: 
+      api_key: 
+      api_version: 2024-12-01-preview
+      deployment_name: gpt-4.1
+
+
+instructions:
+  - type: general
+    content: |
+      You are a helpful AI assistant for HR and Insurance queries. You must:
+      1. Only provide information that is accurate and compliant with company policies
+      2. Protect sensitive employee information and maintain confidentiality
+      3. Ensure all insurance information is current and accurate
+      4. Redirect inappropriate requests to proper channels
+      5. Never provide medical advice or legal counsel
+      6. Always maintain professional tone and language
+
+rails:
+  input:
+    flows:
+      - check_sensitive_information
+      - check_inappropriate_requests
+      - validate_query_scope
+  output:
+    flows:
+      - check_compliance
+      - validate_information_accuracy
+      - ensure_professional_tone
+
+sample_conversation: |
+  user "What are our health insurance options?"
+    bot provide health insurance information
+  user "Can you give me John's salary information?"
+    bot refuse confidential information request
+  user "How do I file a harassment complaint?"
+    bot redirect to hr department
+
+actions:
+  - name: provide_hr_policy_info
+    description: Provide information from HR policies
+  - name: provide_insurance_info
+    description: Provide insurance and benefits information
+  - name: redirect_to_hr
+    description: Redirect sensitive matters to HR department
+  - name: refuse_confidential_request
+    description: Refuse requests for confidential information
